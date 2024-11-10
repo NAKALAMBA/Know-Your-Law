@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorHint">#9E9E9E</color>  <!-- A light gray color -->
+
+    <!-- You can define other colors here -->
+    <color name="colorPrimary">#6200EE</color>  <!-- Purple (Primary color) -->
+    <color name="colorAccent">#03DAC5</color>   <!-- Teal (Accent color) -->
+    <color name="colorSecondary">#9E9E9E</color> <!-- Grey (Secondary color) --><!-- Secondary color (Grey) --><!-- Teal Green -->
+    <color name="colorBackground">#F5F5F5</color>
+
+
+</resources>
